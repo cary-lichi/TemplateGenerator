@@ -1,0 +1,35 @@
+{
+    "eplacementList": [
+        {
+            "oldText": "Test",
+            "newText": "Hero"
+        },
+        {
+            "oldText": "模板名字",
+            "newText": "侠客"
+        },
+        {
+            "oldText": "cary",
+            "newText": "cary"
+        }
+    ],
+    "oldModuleName": "test",
+    "newModuleName": "hero",
+    "oldFileName": "Test",
+    "newFileName": "Hero",
+    "inputPath": "../input",
+    "outPutPath": "../output",
+    "filePath": [
+        "src/game/modules/!moduleName!/event/!Name!Event.ts",
+        "src/game/modules/!moduleName!/mediator/!Name!Mediator.ts",
+        "src/game/modules/!moduleName!/proxy/!Name!Proxy.ts",
+        "src/game/modules/!moduleName!/view/!Name!FullWindow.ts",
+        "src/game/modules/!moduleName!/view/!Name!Dialog.ts",
+        "src/game/modules/!moduleName!/view/!Name!View.ts",
+        "src/game/modules/!moduleName!/view/item/!Name!Item.ts",
+        "src/game/modules/!moduleName!/vo/!Name!VO.ts",
+        "src/game/config/!Name!CFG.ts",
+        "resource/skins/modules/!moduleName!/!Name!Skin.exml",
+        "resource/skins/modules/!moduleName!/item/!Name!ItemSkin.exml"
+    ]
+}

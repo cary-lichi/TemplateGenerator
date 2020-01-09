@@ -1,0 +1,29 @@
+{
+    "eplacementList": [
+        {
+            "oldText": "Template",
+            "newText": "Test"
+        },
+        {
+            "oldText": "template",
+            "newText": "test"
+        },
+        {
+            "oldText": "模板名字",
+            "newText": "模板名字"
+        },
+        {
+            "oldText": "cary",
+            "newText": "cary"
+        }
+    ],
+    "oldModuleName": "template",
+    "newModuleName": "test",
+    "oldFileName": "Template",
+    "newFileName": "Test",
+    "inputPath": "input",
+    "outPutPath": "output",
+    "filePath": [
+        "!moduleName!/!Name!View.ts"
+    ]
+}
